@@ -1,2 +1,2 @@
 # SecureRender
-Implementation of express-session to secure application and achiving statful communication.
+Implementation of express-session to secure application and achieving statful communication.
